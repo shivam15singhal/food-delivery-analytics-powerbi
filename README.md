@@ -4,7 +4,7 @@ An interactive Power BI dashboard built to analyze food delivery operations, sal
 
 ## Dashboard Preview
 
-![Dashboard Overview](Screenshots/overview.png)
+![Dashboard Overview](Screenshots/Executive Overview.png)
 
 ## Project Overview
 
