@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard built to analyze food delivery operations, sales performance, customer behavior, restaurant performance, and delivery efficiency.
 
-## Dashboard Preview
-
-![Dashboard Overview](Screenshots/Executive Overview.png)
 
 ## Project Overview
 
